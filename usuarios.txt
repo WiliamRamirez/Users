@@ -1,0 +1,5 @@
+palomino.matias.10:palomino.matias.10:1009:1009:Jefe de Oficina:/home/palomino.matias.10:/bin/bash
+quispe.soca.5:quispe.soca.5:1010:1010:Area de Sistemas:/home/quispe.soca.5:/bin/bash
+ramirez.gutierrez.1:ramirez.gutierrez.1:1011:1011:Gerencia:/home/ramirez.gutierrez.1:/bin/bash
+zea.leandres.9:zea.leandres.9:1012:1012:Contabilidad:/home/zea.leandres.9:/bin/bash
+pariona.vilca.6:pariona.vilca.6:1013:1013:Apoyo:/home/pariona.vilca.6:/bin/bash
